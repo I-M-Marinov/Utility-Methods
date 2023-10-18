@@ -1,7 +1,8 @@
 ﻿
 int[,] matrix = ReadMatrix(3, 3);
-
 PrintMatrix(matrix);
+
+
 
 static int[,] ReadMatrix(int rows, int cols)
 {
